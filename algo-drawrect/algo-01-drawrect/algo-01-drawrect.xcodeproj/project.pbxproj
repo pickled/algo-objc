@@ -22,6 +22,7 @@
 		991946E219210C0F00CBD738 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 991946C119210C0F00CBD738 /* UIKit.framework */; };
 		991946EA19210C0F00CBD738 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 991946E819210C0F00CBD738 /* InfoPlist.strings */; };
 		991946EC19210C0F00CBD738 /* algo_01_drawrectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 991946EB19210C0F00CBD738 /* algo_01_drawrectTests.m */; };
+		991946F619210DE700CBD738 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 991946F519210DE700CBD738 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		991946E719210C0F00CBD738 /* algo-01-drawrectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "algo-01-drawrectTests-Info.plist"; sourceTree = "<group>"; };
 		991946E919210C0F00CBD738 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		991946EB19210C0F00CBD738 /* algo_01_drawrectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = algo_01_drawrectTests.m; sourceTree = "<group>"; };
+		991946F519210DE700CBD738 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		991946B119210C0F00CBD738 = {
 			isa = PBXGroup;
 			children = (
+				991946F519210DE700CBD738 /* README.md */,
 				991946C319210C0F00CBD738 /* algo-01-drawrect */,
 				991946E519210C0F00CBD738 /* algo-01-drawrectTests */,
 				991946BC19210C0F00CBD738 /* Frameworks */,
@@ -233,6 +236,7 @@
 			files = (
 				991946D419210C0F00CBD738 /* Main_iPad.storyboard in Resources */,
 				991946D919210C0F00CBD738 /* Images.xcassets in Resources */,
+				991946F619210DE700CBD738 /* README.md in Resources */,
 				991946D119210C0F00CBD738 /* Main_iPhone.storyboard in Resources */,
 				991946C819210C0F00CBD738 /* InfoPlist.strings in Resources */,
 			);
