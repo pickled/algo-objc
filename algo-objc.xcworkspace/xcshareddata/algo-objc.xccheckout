@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7F28687A-0D47-4C5D-86A3-06E1C5A93360</string>
+	<string>351FDAF1-C22E-4E6E-84B9-305FA22031C2</string>
 	<key>IDESourceControlProjectName</key>
 	<string>algo-objc</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -18,7 +18,7 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F4120BDF-649F-47D8-91BE-1CBFD9015FC9</key>
-		<string>..</string>
+		<string>../algo-drawrect/algo-01-drawrect</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/pickled/algo-objc</string>
@@ -34,7 +34,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>F4120BDF-649F-47D8-91BE-1CBFD9015FC9</string>
 			<key>IDESourceControlWCCName</key>
-			<string>algo-objc</string>
+			<string>algo-01-drawrect</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4120BDF-649F-47D8-91BE-1CBFD9015FC9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>algo-01-drawrect</string>
 		</dict>
 	</array>
 </dict>
